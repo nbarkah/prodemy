@@ -12,11 +12,11 @@ public class BilanganGenap {
         int i=1;
         int jumlah=0;
         while (jumlah<in2) {
-            if (i%2!=0){
+            if (i%2==0){
                 System.out.print(i);
                 jumlah++;
                 if (jumlah < in2) {
-                    System.out.print(",");
+                    System.out.print(" ");
                 }
             }
             i++;
