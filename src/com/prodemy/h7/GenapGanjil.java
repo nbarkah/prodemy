@@ -10,13 +10,14 @@ public class GenapGanjil {
 
 //        for(int a=1; a<=jum; a++){
 //        int a = 15;
-            if(a==15){
-                System.out.println("khusus");
-            }else if (a%2==0){
-                System.out.println("genap");
-            }else if (a%2==1) {
-                System.out.println(a);
-            }
+//            if(a==15){
+//                System.out.println("khusus");
+//            }else if (a%2==0){
+//                System.out.println("genap");
+//            }else if (a%2==1) {
+//                System.out.println(a);
+//            }
 //        }
+
     }
 }
